@@ -1,3 +1,4 @@
+// given sorted array. find the element appears only once
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& a) {
